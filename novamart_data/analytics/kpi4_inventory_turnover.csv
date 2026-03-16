@@ -1,0 +1,51 @@
+product_name,category,supplier_name,units_sold,avg_stock,inventory_turnover,stock_status
+Bluetooth Speaker,Sports,Apex Goods Co.,13300,5357.7,2.48,Monitor
+Coffee Maker,Electronics,EverReady Wholesale,13267,5679.9,2.34,Monitor
+Denim Jacket,Electronics,EverReady Wholesale,12262,5445.5,2.25,Monitor
+Hooded Sweatshirt,Home & Kitchen,GlobalMart Vendors,12220,5473.8,2.23,Monitor
+Stuffed Animal,Apparel,DeltaSource Inc.,11744,5371.6,2.19,Monitor
+Toaster Oven,Home & Kitchen,HorizonGoods Co.,11155,5331.0,2.09,Monitor
+USB-C Hub,Toys,GlobalMart Vendors,11316,5534.9,2.04,Monitor
+Action Figure Set,Electronics,DeltaSource Inc.,10860,5375.7,2.02,Monitor
+Smart Watch,Apparel,BlueLine Supply,10778,5483.3,1.97,Overstocked
+Rice Cooker,Sports,CoreTrade Ltd.,10877,5544.5,1.96,Overstocked
+Rain Coat,Apparel,FastTrack Suppliers,10735,5488.7,1.96,Overstocked
+Food Scale,Toys,GlobalMart Vendors,10414,6006.4,1.73,Overstocked
+Pull-Up Bar,Toys,Apex Goods Co.,10077,5889.0,1.71,Overstocked
+Board Game,Apparel,FastTrack Suppliers,9993,6050.0,1.65,Overstocked
+Cutting Board,Sports,BlueLine Supply,9338,6060.4,1.54,Overstocked
+Desk Organizer,Apparel,CoreTrade Ltd.,8886,6025.1,1.47,Overstocked
+Webcam HD,Home & Kitchen,GlobalMart Vendors,8975,6085.4,1.47,Overstocked
+Winter Jacket,Electronics,DeltaSource Inc.,8588,5847.2,1.47,Overstocked
+Polo Shirt,Toys,Apex Goods Co.,8789,6062.8,1.45,Overstocked
+Remote Control Car,Sports,EverReady Wholesale,8854,6374.3,1.39,Overstocked
+Gym Gloves,Home & Kitchen,FastTrack Suppliers,8224,5988.0,1.37,Overstocked
+Sports Water Bottle,Toys,BlueLine Supply,8678,6315.4,1.37,Overstocked
+Art Supply Kit,Home & Kitchen,DeltaSource Inc.,7752,6115.9,1.27,Overstocked
+Meal Prep Containers,Toys,FastTrack Suppliers,7183,6032.3,1.19,Overstocked
+Monitor Light,Toys,EverReady Wholesale,7042,5936.7,1.19,Overstocked
+Beanie Hat,Home & Kitchen,DeltaSource Inc.,7409,6291.7,1.18,Overstocked
+Outdoor Kite,Sports,BlueLine Supply,7063,6182.2,1.14,Overstocked
+Blender Pro,Electronics,FastTrack Suppliers,6772,6138.1,1.1,Overstocked
+Foam Roller,Home & Kitchen,BlueLine Supply,6529,6065.8,1.08,Overstocked
+LEGO Classic,Electronics,BlueLine Supply,6429,6391.8,1.01,Overstocked
+Casual T-Shirt,Apparel,CoreTrade Ltd.,5408,6893.9,0.78,Overstocked
+Wireless Headphones,Electronics,Apex Goods Co.,5222,7027.5,0.74,Overstocked
+Yoga Mat,Apparel,FastTrack Suppliers,4747,6458.2,0.74,Overstocked
+Jump Rope,Apparel,EverReady Wholesale,4069,6634.4,0.61,Overstocked
+Running Shoes,Electronics,Apex Goods Co.,3901,7036.7,0.55,Overstocked
+Dumbbell Set,Sports,DeltaSource Inc.,3656,6842.9,0.53,Overstocked
+Puzzle 1000pc,Home & Kitchen,HorizonGoods Co.,3291,6433.5,0.51,Overstocked
+Building Blocks,Toys,GlobalMart Vendors,3361,7109.4,0.47,Overstocked
+Laptop Stand,Electronics,BlueLine Supply,2867,6892.1,0.42,Overstocked
+Mechanical Keyboard,Sports,Apex Goods Co.,3007,7131.2,0.42,Overstocked
+Electric Kettle,Apparel,DeltaSource Inc.,2537,6895.7,0.37,Overstocked
+Knife Set,Home & Kitchen,DeltaSource Inc.,2294,6749.8,0.34,Overstocked
+Portable Charger,Home & Kitchen,GlobalMart Vendors,2387,7221.5,0.33,Overstocked
+Air Fryer,Apparel,FastTrack Suppliers,2213,6875.4,0.32,Overstocked
+Magnetic Tiles,Toys,HorizonGoods Co.,1992,7096.4,0.28,Overstocked
+Compression Shorts,Sports,FastTrack Suppliers,1626,6622.0,0.25,Overstocked
+Leather Gloves,Toys,Apex Goods Co.,1666,6797.9,0.25,Overstocked
+Chino Pants,Sports,DeltaSource Inc.,1755,7201.8,0.24,Overstocked
+Resistance Bands,Electronics,GlobalMart Vendors,1308,7047.5,0.19,Overstocked
+Scarf Set,Sports,DeltaSource Inc.,1234,6954.7,0.18,Overstocked

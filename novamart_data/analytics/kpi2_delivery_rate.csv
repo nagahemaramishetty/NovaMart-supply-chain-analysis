@@ -1,0 +1,4 @@
+warehouse_name,city,state,total_orders,delivered,delayed,cancelled,on_time_rate_pct
+Atlanta DC,Atlanta,GA,14800,12595,1474,731,85.1
+Charlotte DC,Charlotte,NC,14601,12397,1471,733,84.9
+Dallas DC,Dallas,TX,14705,12427,1498,780,84.5

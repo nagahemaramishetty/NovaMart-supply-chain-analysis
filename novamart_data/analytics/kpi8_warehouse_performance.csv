@@ -1,0 +1,4 @@
+warehouse_name,city,state,capacity,total_orders,total_units,total_revenue,avg_order_value,delayed_orders,cancelled_orders,fulfillment_rate_pct,revenue_per_capacity_unit
+Atlanta DC,Atlanta,GA,60000,14800,121947,19902324.65,1344.75,1474,731,85.1,331.71
+Dallas DC,Dallas,TX,55000,14705,121811,19795073.37,1346.15,1498,780,84.5,359.91
+Charlotte DC,Charlotte,NC,50000,14601,118741,19474552.38,1333.78,1471,733,84.9,389.49

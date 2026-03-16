@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,contracted_on_time_rate,avg_lead_time_days,total_orders,delayed_orders,actual_delay_rate_pct,total_revenue_supplied,delay_rank
+SUP004,DeltaSource Inc.,Vietnam,0.72,25,8668,907,10.5,11383991.1,1
+SUP005,EverReady Wholesale,USA,0.97,5,4367,455,10.4,6326119.27,2
+SUP006,FastTrack Suppliers,Mexico,0.83,10,7145,737,10.3,11627203.77,3
+SUP007,GlobalMart Vendors,China,0.68,28,6087,621,10.2,6825295.61,4
+SUP003,CoreTrade Ltd.,India,0.88,14,2646,261,9.9,4043230.74,5
+SUP008,HorizonGoods Co.,India,0.91,12,2687,264,9.8,1263240.99,6
+SUP002,BlueLine Supply,China,0.78,21,6245,613,9.8,11075585.76,7
+SUP001,Apex Goods Co.,USA,0.95,7,6261,585,9.3,6627283.16,8
