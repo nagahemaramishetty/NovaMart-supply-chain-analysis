@@ -1,0 +1,151 @@
+month,product_id,product_name,category,predicted_units,reorder_days
+2025-01,PRD001,Wireless Headphones,Electronics,171.8,0
+2025-01,PRD002,Smart Watch,Apparel,363.8,0
+2025-01,PRD003,Portable Charger,Home & Kitchen,87.6,0
+2025-01,PRD004,Bluetooth Speaker,Sports,337.9,0
+2025-01,PRD005,USB-C Hub,Toys,326.6,0
+2025-01,PRD006,Running Shoes,Electronics,161.7,0
+2025-01,PRD007,Yoga Mat,Apparel,168.0,0
+2025-01,PRD008,Gym Gloves,Home & Kitchen,305.3,0
+2025-01,PRD009,Compression Shorts,Sports,65.9,0
+2025-01,PRD010,Sports Water Bottle,Toys,281.0,0
+2025-01,PRD011,Coffee Maker,Electronics,385.3,0
+2025-01,PRD012,Air Fryer,Apparel,78.0,0
+2025-01,PRD013,Knife Set,Home & Kitchen,52.5,0
+2025-01,PRD014,Cutting Board,Sports,281.2,0
+2025-01,PRD015,Meal Prep Containers,Toys,253.2,0
+2025-01,PRD016,Denim Jacket,Electronics,360.9,0
+2025-01,PRD017,Casual T-Shirt,Apparel,189.0,0
+2025-01,PRD018,Hooded Sweatshirt,Home & Kitchen,375.7,0
+2025-01,PRD019,Chino Pants,Sports,78.4,0
+2025-01,PRD020,Polo Shirt,Toys,320.8,0
+2025-01,PRD021,Action Figure Set,Electronics,370.6,0
+2025-01,PRD022,Board Game,Apparel,346.7,0
+2025-01,PRD023,Puzzle 1000pc,Home & Kitchen,94.4,0
+2025-01,PRD024,Remote Control Car,Sports,294.1,0
+2025-01,PRD025,Building Blocks,Toys,184.3,0
+2025-01,PRD026,Laptop Stand,Electronics,84.8,0
+2025-01,PRD027,Desk Organizer,Apparel,199.9,0
+2025-01,PRD028,Webcam HD,Home & Kitchen,311.2,0
+2025-01,PRD029,Mechanical Keyboard,Sports,95.8,0
+2025-01,PRD030,Monitor Light,Toys,202.3,0
+2025-01,PRD031,Resistance Bands,Electronics,85.60000000000001,0
+2025-01,PRD032,Jump Rope,Apparel,181.9,0
+2025-01,PRD033,Foam Roller,Home & Kitchen,190.0,0
+2025-01,PRD034,Dumbbell Set,Sports,153.1,0
+2025-01,PRD035,Pull-Up Bar,Toys,406.5,0
+2025-01,PRD036,Blender Pro,Electronics,227.7,0
+2025-01,PRD037,Electric Kettle,Apparel,84.8,0
+2025-01,PRD038,Toaster Oven,Home & Kitchen,393.2,0
+2025-01,PRD039,Rice Cooker,Sports,324.1,0
+2025-01,PRD040,Food Scale,Toys,370.7,0
+2025-01,PRD041,Winter Jacket,Electronics,292.7,0
+2025-01,PRD042,Rain Coat,Apparel,327.6,0
+2025-01,PRD043,Beanie Hat,Home & Kitchen,231.0,0
+2025-01,PRD044,Scarf Set,Sports,78.5,0
+2025-01,PRD045,Leather Gloves,Toys,75.0,0
+2025-01,PRD046,LEGO Classic,Electronics,210.2,0
+2025-01,PRD047,Stuffed Animal,Apparel,324.5,0
+2025-01,PRD048,Art Supply Kit,Home & Kitchen,257.2,0
+2025-01,PRD049,Outdoor Kite,Sports,169.2,0
+2025-01,PRD050,Magnetic Tiles,Toys,86.5,0
+2025-02,PRD001,Wireless Headphones,Electronics,162.7,0
+2025-02,PRD002,Smart Watch,Apparel,349.2,0
+2025-02,PRD003,Portable Charger,Home & Kitchen,97.6,0
+2025-02,PRD004,Bluetooth Speaker,Sports,319.0,0
+2025-02,PRD005,USB-C Hub,Toys,299.3,0
+2025-02,PRD006,Running Shoes,Electronics,153.4,0
+2025-02,PRD007,Yoga Mat,Apparel,156.0,0
+2025-02,PRD008,Gym Gloves,Home & Kitchen,278.6,0
+2025-02,PRD009,Compression Shorts,Sports,72.2,0
+2025-02,PRD010,Sports Water Bottle,Toys,254.1,0
+2025-02,PRD011,Coffee Maker,Electronics,368.3,0
+2025-02,PRD012,Air Fryer,Apparel,83.7,0
+2025-02,PRD013,Knife Set,Home & Kitchen,63.8,0
+2025-02,PRD014,Cutting Board,Sports,261.6,0
+2025-02,PRD015,Meal Prep Containers,Toys,228.4,0
+2025-02,PRD016,Denim Jacket,Electronics,342.7,0
+2025-02,PRD017,Casual T-Shirt,Apparel,175.4,0
+2025-02,PRD018,Hooded Sweatshirt,Home & Kitchen,350.3,0
+2025-02,PRD019,Chino Pants,Sports,78.8,0
+2025-02,PRD020,Polo Shirt,Toys,292.1,0
+2025-02,PRD021,Action Figure Set,Electronics,344.6,0
+2025-02,PRD022,Board Game,Apparel,323.8,0
+2025-02,PRD023,Puzzle 1000pc,Home & Kitchen,99.1,0
+2025-02,PRD024,Remote Control Car,Sports,269.8,0
+2025-02,PRD025,Building Blocks,Toys,169.1,0
+2025-02,PRD026,Laptop Stand,Electronics,88.4,0
+2025-02,PRD027,Desk Organizer,Apparel,187.0,0
+2025-02,PRD028,Webcam HD,Home & Kitchen,282.1,0
+2025-02,PRD029,Mechanical Keyboard,Sports,101.5,0
+2025-02,PRD030,Monitor Light,Toys,186.8,0
+2025-02,PRD031,Resistance Bands,Electronics,80.4,0
+2025-02,PRD032,Jump Rope,Apparel,170.5,0
+2025-02,PRD033,Foam Roller,Home & Kitchen,179.5,0
+2025-02,PRD034,Dumbbell Set,Sports,149.7,0
+2025-02,PRD035,Pull-Up Bar,Toys,372.0,0
+2025-02,PRD036,Blender Pro,Electronics,204.4,0
+2025-02,PRD037,Electric Kettle,Apparel,91.3,0
+2025-02,PRD038,Toaster Oven,Home & Kitchen,370.3,0
+2025-02,PRD039,Rice Cooker,Sports,304.8,0
+2025-02,PRD040,Food Scale,Toys,344.4,0
+2025-02,PRD041,Winter Jacket,Electronics,270.6,0
+2025-02,PRD042,Rain Coat,Apparel,313.4,0
+2025-02,PRD043,Beanie Hat,Home & Kitchen,211.3,0
+2025-02,PRD044,Scarf Set,Sports,72.4,0
+2025-02,PRD045,Leather Gloves,Toys,76.8,0
+2025-02,PRD046,LEGO Classic,Electronics,194.7,0
+2025-02,PRD047,Stuffed Animal,Apparel,305.6,0
+2025-02,PRD048,Art Supply Kit,Home & Kitchen,236.8,0
+2025-02,PRD049,Outdoor Kite,Sports,164.0,0
+2025-02,PRD050,Magnetic Tiles,Toys,87.4,0
+2025-03,PRD001,Wireless Headphones,Electronics,246.0,0
+2025-03,PRD002,Smart Watch,Apparel,525.7,0
+2025-03,PRD003,Portable Charger,Home & Kitchen,253.2,0
+2025-03,PRD004,Bluetooth Speaker,Sports,522.0,0
+2025-03,PRD005,USB-C Hub,Toys,519.0,0
+2025-03,PRD006,Running Shoes,Electronics,255.4,0
+2025-03,PRD007,Yoga Mat,Apparel,252.4,0
+2025-03,PRD008,Gym Gloves,Home & Kitchen,369.4,0
+2025-03,PRD009,Compression Shorts,Sports,131.1,0
+2025-03,PRD010,Sports Water Bottle,Toys,345.1,0
+2025-03,PRD011,Coffee Maker,Electronics,508.0,0
+2025-03,PRD012,Air Fryer,Apparel,189.2,0
+2025-03,PRD013,Knife Set,Home & Kitchen,226.7,0
+2025-03,PRD014,Cutting Board,Sports,343.8,0
+2025-03,PRD015,Meal Prep Containers,Toys,315.7,0
+2025-03,PRD016,Denim Jacket,Electronics,546.5,0
+2025-03,PRD017,Casual T-Shirt,Apparel,269.8,0
+2025-03,PRD018,Hooded Sweatshirt,Home & Kitchen,508.5,0
+2025-03,PRD019,Chino Pants,Sports,134.0,0
+2025-03,PRD020,Polo Shirt,Toys,371.1,0
+2025-03,PRD021,Action Figure Set,Electronics,527.8,0
+2025-03,PRD022,Board Game,Apparel,510.3,0
+2025-03,PRD023,Puzzle 1000pc,Home & Kitchen,334.1,0
+2025-03,PRD024,Remote Control Car,Sports,358.3,0
+2025-03,PRD025,Building Blocks,Toys,303.0,0
+2025-03,PRD026,Laptop Stand,Electronics,260.4,0
+2025-03,PRD027,Desk Organizer,Apparel,278.6,0
+2025-03,PRD028,Webcam HD,Home & Kitchen,346.6,0
+2025-03,PRD029,Mechanical Keyboard,Sports,301.9,0
+2025-03,PRD030,Monitor Light,Toys,281.0,0
+2025-03,PRD031,Resistance Bands,Electronics,106.9,5
+2025-03,PRD032,Jump Rope,Apparel,248.7,0
+2025-03,PRD033,Foam Roller,Home & Kitchen,266.1,0
+2025-03,PRD034,Dumbbell Set,Sports,307.7,0
+2025-03,PRD035,Pull-Up Bar,Toys,508.7,0
+2025-03,PRD036,Blender Pro,Electronics,291.9,0
+2025-03,PRD037,Electric Kettle,Apparel,231.9,0
+2025-03,PRD038,Toaster Oven,Home & Kitchen,528.7,0
+2025-03,PRD039,Rice Cooker,Sports,533.2,0
+2025-03,PRD040,Food Scale,Toys,468.5,0
+2025-03,PRD041,Winter Jacket,Electronics,359.0,0
+2025-03,PRD042,Rain Coat,Apparel,497.5,0
+2025-03,PRD043,Beanie Hat,Home & Kitchen,303.9,0
+2025-03,PRD044,Scarf Set,Sports,89.1,0
+2025-03,PRD045,Leather Gloves,Toys,122.2,0
+2025-03,PRD046,LEGO Classic,Electronics,282.9,0
+2025-03,PRD047,Stuffed Animal,Apparel,478.4,0
+2025-03,PRD048,Art Supply Kit,Home & Kitchen,324.3,0
+2025-03,PRD049,Outdoor Kite,Sports,267.0,0
+2025-03,PRD050,Magnetic Tiles,Toys,147.7,0
