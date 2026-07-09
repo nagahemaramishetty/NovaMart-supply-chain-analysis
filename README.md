@@ -1,6 +1,6 @@
 # 📦 NovaMart Supply Chain Intelligence Platform: End-to-End Analytics and Demand Forecasting
 
-![Supply Chain Analytics Pipeline](Nova Mart image.webp)
+![Supply Chain Analytics Pipeline](nova-mart-pipeline.webp)
 
 _Turning scattered supply chain data into forecasted demand and measurable operational performance, built to mirror how a real retail analytics team actually works._
 
